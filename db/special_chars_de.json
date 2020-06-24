@@ -1,0 +1,185 @@
+[{
+		"name": "Nepp und Schlepp",
+		"species": "Waschbär",
+		"birthday": "06-07",
+		"info": "In Animal Crossing: New Horizons betreiben Schlepp und Nepp den Laden.",
+		"gender": 0,
+		"slug": "timmy-tommy"
+	},
+	{
+		"name": "Ohs",
+		"species": "Unbekannt",
+		"birthday": "03-11",
+		"info": "Ohs T. Hase leitet das Osterfest, obwohl ihm dieser Job nicht wirklich Spaß macht. Er ist vermutlich kein Hase, sondern ein anderes Tier in einem Hasenkostüm, da an seinem Rücken ein Reißverschluß zu sehen ist. Wer sich unter dem Kostüm verbirgt, ist unbekannt.",
+		"gender": 0,
+		"slug": "zipper-t-bunny"
+	},
+	{
+		"name": "Gyroid",
+		"species": "Gyroid",
+		"birthday": "08-28",
+		"info": "",
+		"gender": 0,
+		"slug": "lloid"
+	},
+	{
+		"name": "Udo",
+		"species": "Dodo",
+		"birthday": "12-17",
+		"info": "Udo ist ein Dodo und Pilot. Er kam zum ersten Mal in Animal Crossing: New Horizons vor.",
+		"gender": 0,
+		"slug": "wilbur"
+	},
+	{
+		"name": "Bodo",
+		"species": "Dodo",
+		"birthday": "10-02",
+		"info": "Bodo ist ein Dodo und Bodenpersonal im Flughafen. Er kam zum ersten Mal in Animal Crossing: New Horizons vor.",
+		"gender": 0,
+		"slug": "orville"
+	},
+  {
+		"name": "Jorna",
+		"species": "Wildschwein",
+		"birthday": "05-05",
+		"info": "Jorna ist die Enkelin der Rübenverkäuferin Sigrid und übernimmt jeden Sonntag von 5 bis 12 Uhr den Rübenverkauf auf deiner Insel. Sie trägt einen Korb mit drei Rüben an den Kopf gebunden und hat eine Schniefnase. Bei ihr kannst du Rüben für einen Preis von 90 bis 110 Sternis pro Stück kaufen, um diese in Nooks Laden für bis zu 600 Sternis pro Stück wieder verkaufen zu können. Jedoch können Rüben verfaulen, wenn du sie eine Woche lang behältst.",
+		"gender": 1,
+		"slug": "daisy-mae"
+	},
+  {
+		"name": "Lomeus",
+		"species": "Biber",
+		"birthday": "03-07",
+		"info": "Der coole Biber Lomeus kommt an zufälligen Tagen auf den Festplatz deiner Insel. Im Er bleibt 24 Stunden, von 5 Uhr früh bis 5 Uhr des Folgetages, und betreibt lukrativen Fischhandel mit dir. Wenn du Lomeus drei identische Fische bringst, kannst du einen Sammelfisch bestellen.",
+		"gender": 0,
+		"slug": "cj"
+	},
+  {
+		"name": "Gulliver",
+		"species": "Möwe",
+		"birthday": "05-25",
+		"info": "Manchmal strandet Gulliver am Strand deiner Insel. Wenn du ihn geweckt hast, wird er merken, dass sein Smartphone nicht funktioniert und dich bitten, fünf seiner Fernsprecher-Teile am Strand zu suchen.",
+		"gender": 0,
+		"slug": "gulliver"
+	},
+  {
+    "name" : "K.K Slider",
+    "species" : "Hund",
+    "birthday" : "08-23",
+    "info" : "Nachdem deine Insel bei Melinda im Servicecenter eine Wertung von mindestens drei Sternen erreicht hat, hält K.K. am nächsten Tag sofort sein erstes Konzert ab. K.K. wird daraufhin jeden Samstagabend vor dem Servicecenter ein Konzert geben. ",
+    "gender" : 0,
+    "slug" : "kk-slider"
+  },
+  {
+		"name": "Aziza",
+		"species": "Kamel",
+		"birthday": "11-10",
+		"info": "Aziza kommt an zufälligen Tagen auf deine Insel. Sie bietet zufällige Teppiche, Tapeten und Böden zum Verkauf an. Beim Kauf von Teppichen bekommst du sogenannte Aziza-Coupons, von denen fünf gegen eine mysteriöse Tapete oder einen mysteriösen Boden eingetauscht werden können.",
+		"gender": 1,
+		"slug": "saharah"
+	},
+  {
+		"name": "Minna",
+		"species": "Igel",
+		"birthday": "10-31",
+		"info": "Minna ist die mittlere der 3 Schneiderschwestern. Mit der Zeit taucht sie zufällig auf dem Festplatz auf und bittet dich, ihr in verschiedenen Outfits, zu je einem Thema, Model zu stehen. Nachdem du den Test bestanden hast, gibt sie dir einen Schneiderei-Coupon, mit dem du in der Schneiderei ein Teil im Wert von maximal 3.000 Sternis erhalten kannst.",
+		"gender": 1,
+		"slug": "label"
+	},
+  {
+		"name": "Tina",
+		"species": "Igel",
+		"birthday": "05-22",
+		"info": "Tina ist ein Igel und die jüngste der drei Schneiderschwestern. Sie bedient in der Schneiderei die Kunden und bietet dem Spieler an, eigene Designs zu erstellen und in der Schneiderei auszustellen.",
+		"gender": 1,
+		"slug": "mabel"
+	},
+  {
+    "name" : "Melinda",
+    "species" : "Hund",
+    "birthday" : "12-20",
+    "info" : "Melinda findest du am rechten Schalter des Servicecenters, sobald dieses zu einem Gebäude ausgebaut wurde. Sie macht ab sofort anstelle von Tom Nook die täglichen Inseldurchsagen. Bei ihr kannst du die Inselmelodie und die Inselfahne ändern. Außerdem kannst du „Das Insel-Image!' und „Eine Bewohnersache…' auswählen.",
+    "gender" : 0,
+    "slug" : "isabelle"
+  },
+  {
+		"name": "Sina",
+		"species": "Igel",
+		"birthday": "11-22",
+		"info": "Wenn du oft genug mit Sina sprichst, kannst du dich mit ihr anfreunden. Sie schenkt dir dann einige ihrer selbst kreierten Stoffmuster. Es sind 15 verschiedene Muster einer Kategorie, mit denen du deine Möbel umgestalten kannst.",
+		"gender": 1,
+		"slug": "sable"
+	},
+  {
+		"name": "Harvey",
+		"species": "Hund",
+		"birthday": "08-02",
+		"info": "In Animal Crossing: New Horizons leitet Harvey auf seiner eigenen Insel das Fotostudio „Fotopia“. Fotopia ist Harveys voll ausgebautes Haus, welches in jedem Raum eine bestimmte Kulisse beinhaltet. Um gelungene Fotos zu machen, hast du Zugriff auf dein Lager und alle Einrichtungsgegestände und Kleidungsstücke, die du im Katalog hast. Du kannst dich umziehen und auch deine eigenen Einrichtungsgegenstände beliebig platzieren. ",
+		"gender": 0,
+		"slug": "harvey"
+	},
+  {
+		"name": "Schubert",
+		"species": "Stinktier",
+		"birthday": "11-30",
+		"info": "An einem zufälligen Tag in der Woche kommt Schubert auf deine Insel, steht auf dem Festplatz und bietet seine Ware an. Er verkauft dir Schuhe, Taschen und andere Accessoires.",
+		"gender": 0,
+		"slug": "kicks"
+	},
+  {
+		"name": "Eufemia",
+		"species": "Eule",
+		"birthday": "09-07",
+		"info": "Eufemia ist die kleine Schwester von Eugen. Sie ist immer dann auf der Insel zu finden, wenn Sternschnuppen fallen. Dies wird bereits am Vortag von Tom Nook oder Melinda angekündigt. Sie gibt dir die Bastelanleitungen.",
+		"gender": 1,
+		"slug": "celeste"
+	},
+  {
+		"name": "Eugen",
+		"species": "Eule",
+		"birthday": "09-24",
+		"info": "Eugen ist eine Eule und Direktor des Museums. Einen Tag, nachdem du das Zelt aufgestellt hast, kommt Eugen auf deine Insel und gibt dir Rezepte für einen Sprungstab und eine Wackelschaufel, um Fossilien finden zu können. Erst wenn 15 weitere Objekte gespendet wurden, wird das Zelt in ein Museum umgebaut. Hast du alle 15 gespendet, kannst du bis zum Umbau keine weiteren Objekte spenden. Eugen analysiert für dich aber weiterhin Fossilien.",
+		"gender": 0,
+		"slug": "blathers"
+	},
+  {
+		"name": "Buhu",
+		"species": "Geist",
+		"birthday": "02-26",
+		"info": "Du kannst Buhu zufällig nachts auf deiner Insel antreffen. Er wird sich vor dir erschrecken im Glauben, du seist ein Geist. Dadurch verliert er fünf Seelenfragmente, die du wiederfinden musst. Wenn du alle 5 gefangen hast, musst du sie zu Buhu bringen und er wird dich mit einem Item belohnen. Dabei darfst du wählen, ob du lieber etwas Neues, was du noch nicht im Katalog hast, oder etwas Teures möchtest.",
+		"gender": 0,
+		"slug": "wisp"
+	},
+  {
+    "name" : "Tom Nook",
+    "species" : "Waschbär",
+    "birthday" : "05-30",
+    "info" : "Tom Nook findest du zu Beginn des Spiels im Servicecenter. Er überreicht dir die Rechnung für das Reif-für-die-Insel-Paket und hilft dir zusammen mit Nepp und Schlepp dich zu Spielbeginn zurechtzufinden.",
+    "gender" : 0,
+    "slug" : "tom-nook"
+  },
+  {
+    "name" : "Carlson",
+    "species" : "Chamäleon",
+    "birthday" : "05-10",
+    "info" : "Das schüchterne Chamäleon Carlson kommt an zufälligen Tagen auf deine Insel. Solltest du ihn nicht gleich finden, hilft vielleicht ein Gespräch mit deinen Nachbarn. Er bleibt 24 Stunden, von 5 Uhr früh bis 5 Uhr des Folgetages, und betreibt lukrativen Insektenhandel mit dir. Wenn du Carlson drei identische Insekten bringst, kannst du ein Insektenmodell bestellen.",
+    "gender" : 0,
+    "slug" : "flick"
+  },
+  {
+    "name" : "Gerd",
+    "species" : "Faultier",
+    "birthday" : "08-08",
+    "info" : "An einem zufälligen Tag in der Woche kommt Gerd auf deine Insel, steht auf dem Festplatz und bietet seine Ware an. Er verkauft dir Büsche und Blumen. Die Blumen sind immer andere als die, die es in Nooks Laden zu kaufen gibt.",
+    "gender" : 0,
+    "slug" : "leif"
+  },
+  {
+    "name" : "Reiner",
+    "species" : "Fuchs",
+    "birthday" : "10-18",
+    "info" : "Reiner legt am Strand im Norden deiner Insel mit seinem Schatzkutter an. Er verkauft dort Gemälde und Antiquitäten.",
+    "gender" : 0,
+    "slug" : "redd"
+  }
+]

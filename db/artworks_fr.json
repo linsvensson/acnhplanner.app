@@ -1,0 +1,346 @@
+[
+  {
+    "name" : "Toile crépusculaire",
+    "painting" : "Le Dernier Voyage du Téméraire",
+    "description" : "Pas de faux.",
+    "slug" : "glowing-painting",
+    "type" : 0,
+    "artist" : "Joseph Mallord William Turner"
+  },
+  {
+    "name" : "Toile déferlante",
+    "painting" : "La Grande Vague de Kanagawa",
+    "description" : "Pas de faux.",
+    "slug" : "dynamic-painting",
+    "type" : 0,
+    "artist" : "Katsushika Hokusai"
+  },
+  {
+    "name" : "Toile solennelle",
+    "painting" : "Las Meninas",
+    "description" : "L’homme dans le couloir du fond ne pose sa main sur le mur sur le faux.",
+    "slug" : "solemn-painting",
+    "type" : 0,
+    "artist" : "Diego Velasquesz"
+  },
+  {
+    "name" : "Toile charmante",
+    "painting" : "La Laitière",
+    "description" : "Le flux de lait est plus important sur le faux.",
+    "slug" : "quaint-painting",
+    "type" : 0,
+    "artist" : "Johannes Vermeer"
+  },
+  {
+    "name" : "Toile classique",
+    "painting" : "L’Enfant bleu",
+    "description" : "Le faux a une frange.",
+    "slug" : "basic-painting",
+    "type" : 0,
+    "artist" : "Thomas Gainsborough"
+  },
+  {
+    "name" : "Toile célèbre",
+    "painting" : "La Joconde",
+    "description" : "Les sourcils supplémentaires sur le faux.",
+    "slug" : "famous-painting",
+    "type" : 0,
+    "artist" : "Leonardo da Vinci"
+  },
+  {
+    "name" : "Toile parfaite",
+    "painting" : "Nature morte aux pommes et aux oranges",
+    "description" : "Pas de faux.",
+    "slug" : "perfect-painting",
+    "type" : 0,
+    "artist" : "Paul Cézanne"
+  },
+  {
+    "name" : "Toile incroyable",
+    "painting" : "La Garde de nuit",
+    "description" : "L’homme au centre n’a pas de chapeau sur le faux.",
+    "slug" : "amazing-painting",
+    "type" : 0,
+    "artist" : "Rembrandt"
+  },
+  {
+    "name" : "Toile magnifique",
+    "painting" : "Le fifre",
+    "description" : "Pas de faux.",
+    "slug" : "nice-painting",
+    "type" : 0,
+    "artist" : "Édouard Manet"
+  },
+  {
+    "name" : "Toile émouvante",
+    "painting" : "La Naissance de Vénus",
+    "description" : "Il n’y a pas d’arbres dans le coin du faux.",
+    "slug" : "moving-painting",
+    "type" : 0,
+    "artist" : "Sandro Botticelli"
+  },
+  {
+    "name" : "Toile commune",
+    "painting" : "Des glaneuses",
+    "description" : "Pas de faux.",
+    "slug" : "common-painting",
+    "type" : 0,
+    "artist" : "Jean-François Millet"
+  },
+  {
+    "name" : "Toile florale",
+    "painting" : "Les Tournesols",
+    "description" : "Pas de faux.",
+    "slug" : "flowery-painting",
+    "type" : 0,
+    "artist" : "Vincent Van Gogh"
+  },
+  {
+    "name" : "Toile radieuse",
+    "painting" : "La Maja Vestida",
+    "description" : "Pas de faux.",
+    "slug" : "warm-painting",
+    "type" : 0,
+    "artist" : "Francisco De Goya"
+  },
+  {
+    "name" : "Toile potagère",
+    "painting" : "L’Eté",
+    "description" : "Le faux n’a pas de fleur dans le coin droit.",
+    "slug" : "jolly-painting",
+    "type" : 0,
+    "artist" : "Giuseppe Arcimboldo"
+  },
+  {
+    "name" : "Toile académique",
+    "painting" : "Homme de Vitruve",
+    "description" : "Tâche dans le coin supérieur droit sur le faux.",
+    "slug" : "academic-painting",
+    "type" : 0,
+    "artist" : "Leonardo da Vinci"
+  },
+  {
+    "name" : "Toile effrayante",
+    "painting" : "Otani Onji II",
+    "description" : "Les sourcils vont vers le haut sur le faux.",
+    "slug" : "scary-painting",
+    "type" : 0,
+    "artist" : "Tôshûsai Sharaku"
+  },
+  {
+    "name" : "Toile austère",
+    "painting" : "Un bar aux Folies Bergère",
+    "description" : "Pas de faux.",
+    "slug" : "proper-painting",
+    "type" : 0,
+    "artist" : "Édouard Manet"
+  },
+  {
+    "name" : "Toile détaillée",
+    "painting" : "Coq et poule aux hortensias",
+    "description" : "Le faux a des fleurs roses.",
+    "slug" : "detailed-painting",
+    "type" : 0,
+    "artist" : "Ito Jakuchu"
+  },
+  {
+    "name" : "Toile précieuse",
+    "painting" : "La Liberté guidant le peuple",
+    "description" : "Pas de faux.",
+    "slug" : "worthy-painting",
+    "type" : 0,
+    "artist" : "Eugène Delacroix"
+  },
+  {
+    "name" : "Toile apaisante",
+    "painting" : "Un dimanche après-midi à l’Île de la Grande Jatte",
+    "description" : "Pas de faux.",
+    "slug" : "calm-painting",
+    "type" : 0,
+    "artist" : "Georges Seurat"
+  },
+  {
+    "name" : "Toile puissante",
+    "painting" : "Semeur",
+    "description" : "Pas de faux.",
+    "slug" : "moody-painting",
+    "type" : 0,
+    "artist" : "Jean-François Millet"
+  },
+  {
+    "name" : "Toile nacrée",
+    "painting" : "La Jeune Fille à la perle",
+    "description" : "Les faux ont des boucles d’oreilles étoilés et/ou les yeux fermés.",
+    "slug" : "wistful-painting",
+    "type" : 0,
+    "artist" : "Johannes Vermeer"
+  },
+  {
+    "name" : "Toile royale",
+    "painting" : "La Dame à l’hermine",
+    "description" : "Créature plus sombre et bec différent sur le faux.",
+    "slug" : "serene-painting",
+    "type" : 0,
+    "artist" : "Leonardo da Vinci"
+  },
+  {
+    "name" : "Toile hivernale",
+    "painting" : "Chasseurs dans la neige",
+    "description" : "Un seul chasseur et des chiens en moins sur le faux.",
+    "slug" : "scenic-painting",
+    "type" : 0,
+    "artist" : "Peiter Bruegel"
+  },
+  {
+    "name" : "Toile sauvage (partie gauche)",
+    "painting" : "Dieu du tonnerre",
+    "description" : "Le dieu est vert sur le faux.",
+    "slug" : "wild-painting-left-half",
+    "type" : 0,
+    "artist" : "Tawaraya Sōtatsu"
+  },
+  {
+    "name" : "Toile sauvage (partie droite)",
+    "painting" : "Dieu du vent",
+    "description" : "Le dieu est blanc sur le faux.",
+    "slug" : "wild-painting-right-half",
+    "type" : 0,
+    "artist" : "Tawaraya Sōtatsu"
+  },
+  {
+    "name" : "Toile gracieuse",
+    "painting" : "Peinture sur soie d’une bijin",
+    "description" : "Les faux ont le visage dans le sens du corps ou n’ont pas de barrette blanche dans les cheveux.",
+    "slug" : "graceful-painting",
+    "type" : 0,
+    "artist" : "Hishikawa Moronobu"
+  },
+  {
+    "name" : "Toile ténébreuse",
+    "painting" : "L’Île des morts",
+    "description" : "Pas de faux.",
+    "slug" : "mysterious-painting",
+    "type" : 0,
+    "artist" : "Arnold Böcklin"
+  },
+  {
+    "name" : "Toile tragique",
+    "painting" : "Ophélie",
+    "description" : "Pas de faux.",
+    "slug" : "sinking-painting",
+    "type" : 0,
+    "artist" : "John Everett Millais"
+  },
+  {
+    "name" : "Toile scintillante",
+    "painting" : "La Nuit étoilée",
+    "description" : "Pas de faux.",
+    "slug" : "twinkling-painting",
+    "type" : 0,
+    "artist" : "Vincent Van Gogh"
+  },
+  {
+    "name" : "Statue féminine",
+    "painting" : "Vénus de Milo	",
+    "description" : "Le faux a un colier.",
+    "slug" : "beautiful-statue",
+    "type" : 1,
+    "artist" : "Alexandros of Antioch"
+  },
+  {
+    "name" : "Statue héroïque",
+    "painting" : "Victoire de Samothrace",
+    "description" : "Le faux a le pied gauche devant.",
+    "slug" : "valiant-statue",
+    "type" : 1,
+    "artist" : ""
+  },
+  {
+    "name" : "Statue majestueuse",
+    "painting" : "David",
+    "description" : "Le faux a un livre.",
+    "slug" : "gallant-statue",
+    "type" : 1,
+    "artist" : "Michelangelo"
+  },
+  {
+    "name" : "Statue athlétique	",
+    "painting" : "Discobole",
+    "description" : "Montre sur le bras droit du faux.",
+    "slug" : "robust-statue",
+    "type" : 1,
+    "artist" : "Myron"
+  },
+  {
+    "name" : "Statue imposante",
+    "painting" : "Statue de Kamehameha Ier",
+    "description" : "Pas de faux.",
+    "slug" : "great-statue",
+    "type" : 1,
+    "artist" : "Thomas R. Gould"
+  },
+  {
+    "name" : "Statue mystérieuse",
+    "painting" : "Buste de Néfertiti",
+    "description" : "Le faux a une boucle d’oreille.",
+    "slug" : "mystic-statue",
+    "type" : 1,
+    "artist" : "Thutmose"
+  },
+  {
+    "name" : "Statuette antique",
+    "painting" : "Dogū",
+    "description" : "Les faux ont des antennes et certains ont aussi des yeux bleus.",
+    "slug" : "ancient-statue",
+    "type" : 1,
+    "artist" : ""
+  },
+  {
+    "name" : "Statue maternelle",
+    "painting" : "Romulus et Remus",
+    "description" : "Le faux tire la langue.",
+    "slug" : "motherly-statue",
+    "type" : 1,
+    "artist" : ""
+  },
+  {
+    "name" : "Tablette édifiante",
+    "painting" : "Pierre de Rosette",
+    "description" : "Le faux n’a pas de fleur dans le coin droit.",
+    "slug" : "informative-statue",
+    "type" : 1,
+    "artist" : ""
+  },
+  {
+    "name" : "Statue pensive",
+    "painting" : "Le Penseur",
+    "description" : "Pas de faux.",
+    "slug" : "familiar-statue",
+    "type" : 1,
+    "artist" : "Auguste Rodin"
+  },
+  {
+    "name" : "Sculpture déterminée",
+    "painting" : "Tête colossale",
+    "description" : "Le faux est souriant.",
+    "slug" : "rock-head-statue",
+    "type" : 1,
+    "artist" : ""
+  },
+  {
+    "name" : "Sculpture singulière",
+    "painting" : "Houmuwu ding",
+    "description" : "Le faux a un couvercle.",
+    "slug" : "tremendous-statue",
+    "type" : 1,
+    "artist" : ""
+  },
+  {
+    "name" : "Statue guerrière",
+    "painting" : "Armée de terre cuite",
+    "description" : "Le faux tient une houe, le vrai ne tient rien.",
+    "slug" : "warrior-statue",
+    "type" : 1,
+    "artist" : ""
+  }
+]

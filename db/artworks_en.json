@@ -1,0 +1,346 @@
+[
+  {
+    "name" : "Glowing Painting",
+    "painting" : "The Fighting Temeraire",
+    "description" : "This painting is always genuine.",
+    "slug" : "glowing-painting",
+    "type" : 0,
+    "artist" : "Joseph Mallord William Turner"
+  },
+  {
+    "name" : "Dynamic Painting",
+    "painting" : "Great Wave off Kanagawa",
+    "description" : "This painting is always genuine.",
+    "slug" : "dynamic-painting",
+    "type" : 0,
+    "artist" : "Katsushika Hokusai"
+  },
+  {
+    "name" : "Solemn Painting",
+    "painting" : "Las Meninas",
+    "description" : "If the man in the doorway has his arms pointing up, it's fake.",
+    "slug" : "solemn-painting",
+    "type" : 0,
+    "artist" : "Diego Velasquesz"
+  },
+  {
+    "name" : "Quaint Painting",
+    "painting" : "The Milkmaid",
+    "description" : "If more milk comes pouring out of the pitcher, it's fake.",
+    "slug" : "quaint-painting",
+    "type" : 0,
+    "artist" : "Johannes Vermeer"
+  },
+  {
+    "name" : "Basic Painting",
+    "painting" : "The Blue Boy",
+    "description" : "If the boy's hair looks different, it's fake.",
+    "slug" : "basic-painting",
+    "type" : 0,
+    "artist" : "Thomas Gainsborough"
+  },
+  {
+    "name" : "Famous Painting",
+    "painting" : "The Mona Lisa",
+    "description" : "If her eyebrows are different, it's fake.",
+    "slug" : "famous-painting",
+    "type" : 0,
+    "artist" : "Leonardo da Vinci"
+  },
+  {
+    "name" : "Perfect Painting",
+    "painting" : "Apples and Oranges",
+    "description" : "This painting is always genuine.",
+    "slug" : "perfect-painting",
+    "type" : 0,
+    "artist" : "Paul Cézanne"
+  },
+  {
+    "name" : "Amazing Painting",
+    "painting" : "The Night Watch",
+    "description" : "If the man in the center doesn't wear a hat, it's fake.",
+    "slug" : "amazing-painting",
+    "type" : 0,
+    "artist" : "Rembrandt"
+  },
+  {
+    "name" : "Nice Painting",
+    "painting" : "The Fifer",
+    "description" : "This painting is always genuine.",
+    "slug" : "nice-painting",
+    "type" : 0,
+    "artist" : "Édouard Manet"
+  },
+  {
+    "name" : "Moving Painting",
+    "painting" : "The Birth of Venus",
+    "description" : "The fake has no trees to the right.",
+    "slug" : "moving-painting",
+    "type" : 0,
+    "artist" : "Sandro Botticelli"
+  },
+  {
+    "name" : "Common Painting",
+    "painting" : "The Gleaners",
+    "description" : "This painting is always genuine.",
+    "slug" : "common-painting",
+    "type" : 0,
+    "artist" : "Jean-François Millet"
+  },
+  {
+    "name" : "Flowery Painting",
+    "painting" : "Sunflowers",
+    "description" : "This painting is always genuine.",
+    "slug" : "flowery-painting",
+    "type" : 0,
+    "artist" : "Vincent Van Gogh"
+  },
+  {
+    "name" : "Warm Painting",
+    "painting" : "The Clothed Maja",
+    "description" : "This painting is always genuine.",
+    "slug" : "warm-painting",
+    "type" : 0,
+    "artist" : "Francisco De Goya"
+  },
+  {
+    "name" : "Jolly Painting",
+    "painting" : "Summer",
+    "description" : "If the the flower isn't on the man's chest, it's fake.",
+    "slug" : "jolly-painting",
+    "type" : 0,
+    "artist" : "Giuseppe Arcimboldo"
+  },
+  {
+    "name" : "Academic Painting",
+    "painting" : "Vitruvian Man",
+    "description" : "If there's a coffee stain in the upper right-hand corner, it's fake.",
+    "slug" : "academic-painting",
+    "type" : 0,
+    "artist" : "Leonardo da Vinci"
+  },
+  {
+    "name" : "Scary Painting",
+    "painting" : "The actor Otani Oniji III as Edobei",
+    "description" : "If the eyebrows are different, it's fake.",
+    "slug" : "scary-painting",
+    "type" : 0,
+    "artist" : "Tôshûsai Sharaku"
+  },
+  {
+    "name" : "Proper Painting",
+    "painting" : "A Bar at the Folies-Bergère",
+    "description" : "This painting is always genuine.",
+    "slug" : "proper-painting",
+    "type" : 0,
+    "artist" : "Édouard Manet"
+  },
+  {
+    "name" : "Detailed Painting",
+    "painting" : "Rooster and Hen with Hydrangeas",
+    "description" : "If the flowers are purple instead of blue, it's fake.",
+    "slug" : "detailed-painting",
+    "type" : 0,
+    "artist" : "Ito Jakuchu"
+  },
+  {
+    "name" : "Worthy Painting",
+    "painting" : "Liberty Leading the People",
+    "description" : "This painting is always genuine.",
+    "slug" : "worthy-painting",
+    "type" : 0,
+    "artist" : "Eugène Delacroix"
+  },
+  {
+    "name" : "Calm Painting",
+    "painting" : "A Sunday Afternoon on the Island of La Grande Jatte",
+    "description" : "This painting is always genuine.",
+    "slug" : "calm-painting",
+    "type" : 0,
+    "artist" : "Georges Seurat"
+  },
+  {
+    "name" : "Moody Painting",
+    "painting" : "The Sower",
+    "description" : "This painting is always genuine.",
+    "slug" : "moody-painting",
+    "type" : 0,
+    "artist" : "Jean-François Millet"
+  },
+  {
+    "name" : "Wistful Painting",
+    "painting" : "Girl with a Pearl Earring",
+    "description" : "If the earring is star shaped, it's fake.",
+    "slug" : "wistful-painting",
+    "type" : 0,
+    "artist" : "Johannes Vermeer"
+  },
+  {
+    "name" : "Serene Painting",
+    "painting" : "Lady with an Ermine",
+    "description" : "If the ermine is darker and has a mask over its eyes similar to Tom Nook, it's fake.",
+    "slug" : "serene-painting",
+    "type" : 0,
+    "artist" : "Leonardo da Vinci"
+  },
+  {
+    "name" : "Scenic Painting",
+    "painting" : "The Hunters in the Snow",
+    "description" : "If two of the men and two of the dogs are missing from the hunting pack, it's fake.",
+    "slug" : "scenic-painting",
+    "type" : 0,
+    "artist" : "Peiter Bruegel"
+  },
+  {
+    "name" : "Wild Painting Left Half",
+    "painting" : "Wind God and Thunder God",
+    "description" : "If the figure is green instead of white, it's fake.",
+    "slug" : "wild-painting-left-half",
+    "type" : 0,
+    "artist" : "Tawaraya Sōtatsu"
+  },
+  {
+    "name" : "Wild Painting Right Half",
+    "painting" : "Wind God and Thunder God",
+    "description" : "If the figure is white instead of green, it's fake.",
+    "slug" : "wild-painting-right-half",
+    "type" : 0,
+    "artist" : "Tawaraya Sōtatsu"
+  },
+  {
+    "name" : "Graceful Painting",
+    "painting" : "Beauty Looking Back",
+    "description" : "If the woman takes up more of the canvas it's fake.",
+    "slug" : "graceful-painting",
+    "type" : 0,
+    "artist" : "Hishikawa Moronobu"
+  },
+  {
+    "name" : "Mysterious Painting",
+    "painting" : "Isle of the Dead",
+    "description" : "This painting is always genuine.",
+    "slug" : "mysterious-painting",
+    "type" : 0,
+    "artist" : "Arnold Böcklin"
+  },
+  {
+    "name" : "Sinking Painting",
+    "painting" : "Ophelia",
+    "description" : "This painting is always genuine.",
+    "slug" : "sinking-painting",
+    "type" : 0,
+    "artist" : "John Everett Millais"
+  },
+  {
+    "name" : "Twinkling Painting",
+    "painting" : "The Starry Night",
+    "description" : "This painting is always genuine.",
+    "slug" : "twinkling-painting",
+    "type" : 0,
+    "artist" : "Vincent Van Gogh"
+  },
+  {
+    "name" : "Beautiful Statue",
+    "painting" : "Venus de Milo",
+    "description" : "If she wears a necklace, it's fake.",
+    "slug" : "beautiful-statue",
+    "type" : 1,
+    "artist" : "Alexandros of Antioch"
+  },
+  {
+    "name" : "Valiant Statue",
+    "painting" : "Nike of Samothrace",
+    "description" : "The fake one has the left leg coming forward.",
+    "slug" : "valiant-statue",
+    "type" : 1,
+    "artist" : ""
+  },
+  {
+    "name" : "Gallant Statue",
+    "painting" : "David",
+    "description" : "The fake one has a book under its arm.",
+    "slug" : "gallant-statue",
+    "type" : 1,
+    "artist" : "Michelangelo"
+  },
+  {
+    "name" : "Robust Statue",
+    "painting" : "Discobolus",
+    "description" : "The fake one has a watch on its arm.",
+    "slug" : "robust-statue",
+    "type" : 1,
+    "artist" : "Myron"
+  },
+  {
+    "name" : "Great Statue",
+    "painting" : "King Kamehameha I",
+    "description" : "This statue is always genuine.",
+    "slug" : "great-statue",
+    "type" : 1,
+    "artist" : "Thomas R. Gould"
+  },
+  {
+    "name" : "Mystic Statue",
+    "painting" : "Bust of Nefertiti",
+    "description" : "If there's an earring on the statue's right ear (left when viewed), it's fake.",
+    "slug" : "mystic-statue",
+    "type" : 1,
+    "artist" : "Thutmose"
+  },
+  {
+    "name" : "Ancient Statue",
+    "painting" : "Dogū",
+    "description" : "If it has two antennas, it's fake.",
+    "slug" : "ancient-statue",
+    "type" : 1,
+    "artist" : ""
+  },
+  {
+    "name" : "Motherly Statue",
+    "painting" : "Capitoline Wolf",
+    "description" : "If the wolf mother's tongue is sticking out, it's fake.",
+    "slug" : "motherly-statue",
+    "type" : 1,
+    "artist" : ""
+  },
+  {
+    "name" : "Informative Statue",
+    "painting" : "Rosetta Stone",
+    "description" : "If it's blue instead of black, it's fake.",
+    "slug" : "informative-statue",
+    "type" : 1,
+    "artist" : ""
+  },
+  {
+    "name" : "Familiar Statue",
+    "painting" : "The Thinker",
+    "description" : "This statue is always genuine.",
+    "slug" : "familiar-statue",
+    "type" : 1,
+    "artist" : "Auguste Rodin"
+  },
+  {
+    "name" : "Rock-head Statue",
+    "painting" : "Olmec Colossal Head",
+    "description" : "The fake one is smiling.",
+    "slug" : "rock-head-statue",
+    "type" : 1,
+    "artist" : ""
+  },
+  {
+    "name" : "Tremendous Statue",
+    "painting" : "Houmuwu Ding",
+    "description" : "The fake one has a lid on top.",
+    "slug" : "tremendous-statue",
+    "type" : 1,
+    "artist" : ""
+  },
+  {
+    "name" : "Warrior Statue",
+    "painting" : "Terracotta Warrior",
+    "description" : "The fake one holds a shovel.",
+    "slug" : "warrior-statue",
+    "type" : 1,
+    "artist" : ""
+  }
+]

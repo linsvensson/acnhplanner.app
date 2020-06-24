@@ -1,0 +1,513 @@
+[
+  {
+    "slug" : "acanthostega",
+    "name" : "acanthostega",
+    "color1" : "Beige",
+    "color2" : "Brown",
+    "source" : "Assessing fossils"
+  },
+  {
+    "slug" : "amber",
+    "name" : "amber",
+    "color1" : "Yellow",
+    "color2" : "Yellow",
+    "source" : "Assessing fossils"
+  },
+  {
+    "slug" : "ammonite",
+    "name" : "ammonite",
+    "color1" : "Beige",
+    "color2" : "Brown",
+    "source" : "Assessing fossils"
+  },
+  {
+    "slug" : "ankylo-skull",
+    "name" : "ankylo skull",
+    "color1" : "Brown",
+    "color2" : "Brown",
+    "source" : "Assessing fossils"
+  },
+  {
+    "slug" : "ankylo-tail",
+    "name" : "ankylo tail",
+    "color1" : "Brown",
+    "color2" : "Brown",
+    "source" : "Assessing fossils"
+  },
+  {
+    "slug" : "ankylo-torso",
+    "name" : "ankylo torso",
+    "color1" : "Brown",
+    "color2" : "Brown",
+    "source" : "Assessing fossils"
+  },
+  {
+    "slug" : "anomalocaris",
+    "name" : "anomalocaris",
+    "color1" : "Black",
+    "color2" : "Gray",
+    "source" : "Assessing fossils"
+  },
+  {
+    "slug" : "archaeopteryx",
+    "name" : "archaeopteryx",
+    "color1" : "Beige",
+    "color2" : "Brown",
+    "source" : "Assessing fossils"
+  },
+  {
+    "slug" : "archelon-skull",
+    "name" : "archelon skull",
+    "color1" : "Brown",
+    "color2" : "Brown",
+    "source" : "Assessing fossils"
+  },
+  {
+    "slug" : "archelon-tail",
+    "name" : "archelon tail",
+    "color1" : "Brown",
+    "color2" : "Brown",
+    "source" : "Assessing fossils"
+  },
+  {
+    "slug" : "australopith",
+    "name" : "australopith",
+    "color1" : "Beige",
+    "color2" : "Brown",
+    "source" : "Assessing fossils"
+  },
+  {
+    "slug" : "brachio-chest",
+    "name" : "brachio chest",
+    "color1" : "Brown",
+    "color2" : "Brown",
+    "source" : "Assessing fossils"
+  },
+  {
+    "slug" : "brachio-pelvis",
+    "name" : "brachio pelvis",
+    "color1" : "Brown",
+    "color2" : "Brown",
+    "source" : "Assessing fossils"
+  },
+  {
+    "slug" : "brachio-skull",
+    "name" : "brachio skull",
+    "color1" : "Brown",
+    "color2" : "Brown",
+    "source" : "Assessing fossils"
+  },
+  {
+    "slug" : "brachio-tail",
+    "name" : "brachio tail",
+    "color1" : "Brown",
+    "color2" : "Brown",
+    "source" : "Assessing fossils"
+  },
+  {
+    "slug" : "coprolite",
+    "name" : "coprolite",
+    "color1" : "Brown",
+    "color2" : "Brown",
+    "source" : "Assessing fossils"
+  },
+  {
+    "slug" : "deinony-tail",
+    "name" : "deinony tail",
+    "color1" : "Brown",
+    "color2" : "Brown",
+    "source" : "Assessing fossils"
+  },
+  {
+    "slug" : "deinony-torso",
+    "name" : "deinony torso",
+    "color1" : "Brown",
+    "color2" : "Brown",
+    "source" : "Assessing fossils"
+  },
+  {
+    "slug" : "dimetrodon-skull",
+    "name" : "dimetrodon skull",
+    "color1" : "Brown",
+    "color2" : "Brown",
+    "source" : "Assessing fossils"
+  },
+  {
+    "slug" : "dimetrodon-torso",
+    "name" : "dimetrodon torso",
+    "color1" : "Brown",
+    "color2" : "Brown",
+    "source" : "Assessing fossils"
+  },
+  {
+    "slug" : "dinosaur-track",
+    "name" : "dinosaur track",
+    "color1" : "Beige",
+    "color2" : "Brown",
+    "source" : "Assessing fossils"
+  },
+  {
+    "slug" : "diplo-chest",
+    "name" : "diplo chest",
+    "color1" : "Brown",
+    "color2" : "Brown",
+    "source" : "Assessing fossils"
+  },
+  {
+    "slug" : "diplo-neck",
+    "name" : "diplo neck",
+    "color1" : "Brown",
+    "color2" : "Brown",
+    "source" : "Assessing fossils"
+  },
+  {
+    "slug" : "diplo-pelvis",
+    "name" : "diplo pelvis",
+    "color1" : "Brown",
+    "color2" : "Brown",
+    "source" : "Assessing fossils"
+  },
+  {
+    "slug" : "diplo-skull",
+    "name" : "diplo skull",
+    "color1" : "Brown",
+    "color2" : "Brown",
+    "source" : "Assessing fossils"
+  },
+  {
+    "slug" : "diplo-tail",
+    "name" : "diplo tail",
+    "color1" : "Brown",
+    "color2" : "Brown",
+    "source" : "Assessing fossils"
+  },
+  {
+    "slug" : "diplo-tail-tip",
+    "name" : "diplo tail tip",
+    "color1" : "Brown",
+    "color2" : "Brown",
+    "source" : "Assessing fossils"
+  },
+  {
+    "slug" : "dunkleosteus",
+    "name" : "dunkleosteus",
+    "color1" : "Gray",
+    "color2" : "Brown",
+    "source" : "Assessing fossils"
+  },
+  {
+    "slug" : "eusthenopteron",
+    "name" : "eusthenopteron",
+    "color1" : "Brown",
+    "color2" : "Brown",
+    "source" : "Assessing fossils"
+  },
+  {
+    "slug" : "iguanodon-skull",
+    "name" : "iguanodon skull",
+    "color1" : "Brown",
+    "color2" : "Brown",
+    "source" : "Assessing fossils"
+  },
+  {
+    "slug" : "iguanodon-tail",
+    "name" : "iguanodon tail",
+    "color1" : "Brown",
+    "color2" : "Brown",
+    "source" : "Assessing fossils"
+  },
+  {
+    "slug" : "iguanodon-torso",
+    "name" : "iguanodon torso",
+    "color1" : "Brown",
+    "color2" : "Brown",
+    "source" : "Assessing fossils"
+  },
+  {
+    "slug" : "juramaia",
+    "name" : "juramaia",
+    "color1" : "Beige",
+    "color2" : "Brown",
+    "source" : "Assessing fossils"
+  },
+  {
+    "slug" : "left-megalo-side",
+    "name" : "left megalo side",
+    "color1" : "Beige",
+    "color2" : "Brown",
+    "source" : "Assessing fossils"
+  },
+  {
+    "slug" : "left-ptera-wing",
+    "name" : "left ptera wing",
+    "color1" : "Brown",
+    "color2" : "Brown",
+    "source" : "Assessing fossils"
+  },
+  {
+    "slug" : "left-quetzal-wing",
+    "name" : "left quetzal wing",
+    "color1" : "Brown",
+    "color2" : "Brown",
+    "source" : "Assessing fossils"
+  },
+  {
+    "slug" : "mammoth-skull",
+    "name" : "mammoth skull",
+    "color1" : "Beige",
+    "color2" : "Brown",
+    "source" : "Assessing fossils"
+  },
+  {
+    "slug" : "mammoth-torso",
+    "name" : "mammoth torso",
+    "color1" : "Beige",
+    "color2" : "Brown",
+    "source" : "Assessing fossils"
+  },
+  {
+    "slug" : "megacero-skull",
+    "name" : "megacero skull",
+    "color1" : "Brown",
+    "color2" : "Brown",
+    "source" : "Assessing fossils"
+  },
+  {
+    "slug" : "megacero-tail",
+    "name" : "megacero tail",
+    "color1" : "Brown",
+    "color2" : "Brown",
+    "source" : "Assessing fossils"
+  },
+  {
+    "slug" : "megacero-torso",
+    "name" : "megacero torso",
+    "color1" : "Brown",
+    "color2" : "Brown",
+    "source" : "Assessing fossils"
+  },
+  {
+    "slug" : "myllokunmingia",
+    "name" : "myllokunmingia",
+    "color1" : "Gray",
+    "color2" : "Gray",
+    "source" : "Assessing fossils"
+  },
+  {
+    "slug" : "ophthalmo-skull",
+    "name" : "ophthalmo skull",
+    "color1" : "Brown",
+    "color2" : "Brown",
+    "source" : "Assessing fossils"
+  },
+  {
+    "slug" : "ophthalmo-torso",
+    "name" : "ophthalmo torso",
+    "color1" : "Brown",
+    "color2" : "Brown",
+    "source" : "Assessing fossils"
+  },
+  {
+    "slug" : "pachy-skull",
+    "name" : "pachy skull",
+    "color1" : "Brown",
+    "color2" : "Brown",
+    "source" : "Assessing fossils"
+  },
+  {
+    "slug" : "pachy-tail",
+    "name" : "pachy tail",
+    "color1" : "Brown",
+    "color2" : "Brown",
+    "source" : "Assessing fossils"
+  },
+  {
+    "slug" : "parasaur-skull",
+    "name" : "parasaur skull",
+    "color1" : "Brown",
+    "color2" : "Brown",
+    "source" : "Assessing fossils"
+  },
+  {
+    "slug" : "parasaur-tail",
+    "name" : "parasaur tail",
+    "color1" : "Brown",
+    "color2" : "Brown",
+    "source" : "Assessing fossils"
+  },
+  {
+    "slug" : "parasaur-torso",
+    "name" : "parasaur torso",
+    "color1" : "Brown",
+    "color2" : "Brown",
+    "source" : "Assessing fossils"
+  },
+  {
+    "slug" : "plesio-body",
+    "name" : "plesio body",
+    "color1" : "Brown",
+    "color2" : "Brown",
+    "source" : "Assessing fossils"
+  },
+  {
+    "slug" : "plesio-skull",
+    "name" : "plesio skull",
+    "color1" : "Brown",
+    "color2" : "Brown",
+    "source" : "Assessing fossils"
+  },
+  {
+    "slug" : "plesio-tail",
+    "name" : "plesio tail",
+    "color1" : "Brown",
+    "color2" : "Brown",
+    "source" : "Assessing fossils"
+  },
+  {
+    "slug" : "ptera-body",
+    "name" : "ptera body",
+    "color1" : "Brown",
+    "color2" : "Brown",
+    "source" : "Assessing fossils"
+  },
+  {
+    "slug" : "quetzal-torso",
+    "name" : "quetzal torso",
+    "color1" : "Brown",
+    "color2" : "Brown",
+    "source" : "Assessing fossils"
+  },
+  {
+    "slug" : "right-megalo-side",
+    "name" : "right megalo side",
+    "color1" : "Beige",
+    "color2" : "Brown",
+    "source" : "Assessing fossils"
+  },
+  {
+    "slug" : "right-ptera-wing",
+    "name" : "right ptera wing",
+    "color1" : "Brown",
+    "color2" : "Brown",
+    "source" : "Assessing fossils"
+  },
+  {
+    "slug" : "right-quetzal-wing",
+    "name" : "right quetzal wing",
+    "color1" : "Brown",
+    "color2" : "Brown",
+    "source" : "Assessing fossils"
+  },
+  {
+    "slug" : "sabertooth-skull",
+    "name" : "sabertooth skull",
+    "color1" : "Brown",
+    "color2" : "Brown",
+    "source" : "Assessing fossils"
+  },
+  {
+    "slug" : "sabertooth-tail",
+    "name" : "sabertooth tail",
+    "color1" : "Brown",
+    "color2" : "Brown",
+    "source" : "Assessing fossils"
+  },
+  {
+    "slug" : "shark-tooth-pattern",
+    "name" : "shark-tooth pattern",
+    "color1" : "Beige",
+    "color2" : "Brown",
+    "source" : "Assessing fossils"
+  },
+  {
+    "slug" : "spino-skull",
+    "name" : "spino skull",
+    "color1" : "Brown",
+    "color2" : "Brown",
+    "source" : "Assessing fossils"
+  },
+  {
+    "slug" : "spino-tail",
+    "name" : "spino tail",
+    "color1" : "Brown",
+    "color2" : "Brown",
+    "source" : "Assessing fossils"
+  },
+  {
+    "slug" : "spino-torso",
+    "name" : "spino torso",
+    "color1" : "Brown",
+    "color2" : "Brown",
+    "source" : "Assessing fossils"
+  },
+  {
+    "slug" : "stego-skull",
+    "name" : "stego skull",
+    "color1" : "Brown",
+    "color2" : "Brown",
+    "source" : "Assessing fossils"
+  },
+  {
+    "slug" : "stego-tail",
+    "name" : "stego tail",
+    "color1" : "Brown",
+    "color2" : "Brown",
+    "source" : "Assessing fossils"
+  },
+  {
+    "slug" : "stego-torso",
+    "name" : "stego torso",
+    "color1" : "Brown",
+    "color2" : "Brown",
+    "source" : "Assessing fossils"
+  },
+  {
+    "slug" : "t-rex-skull",
+    "name" : "T. rex skull",
+    "color1" : "Brown",
+    "color2" : "Brown",
+    "source" : "Assessing fossils"
+  },
+  {
+    "slug" : "t-rex-tail",
+    "name" : "T. rex tail",
+    "color1" : "Brown",
+    "color2" : "Brown",
+    "source" : "Assessing fossils"
+  },
+  {
+    "slug" : "t-rex-torso",
+    "name" : "T. rex torso",
+    "color1" : "Brown",
+    "color2" : "Brown",
+    "source" : "Assessing fossils"
+  },
+  {
+    "slug" : "tricera-skull",
+    "name" : "tricera skull",
+    "color1" : "Brown",
+    "color2" : "Brown",
+    "source" : "Assessing fossils"
+  },
+  {
+    "slug" : "tricera-tail",
+    "name" : "tricera tail",
+    "color1" : "Brown",
+    "color2" : "Brown",
+    "source" : "Assessing fossils"
+  },
+  {
+    "slug" : "tricera-torso",
+    "name" : "tricera torso",
+    "color1" : "Brown",
+    "color2" : "Brown",
+    "source" : "Assessing fossils"
+  },
+  {
+    "slug" : "trilobite",
+    "name" : "trilobite",
+    "color1" : "Beige",
+    "color2" : "Brown",
+    "source" : "Assessing fossils"
+  }
+]
