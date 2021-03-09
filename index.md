@@ -1,4 +1,4 @@
-![Planner for AC: NH Logo](/assets/logo.png width="600" height="500")
+![Planner for AC: NH Logo](assets/logo.png?v=4&s=200)
 
 ![<img src="/assets/google-play-badge.png">](https://play.google.com/store/apps/details?id=com.csven.acnhplanner)
 
